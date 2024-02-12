@@ -9,7 +9,7 @@ I'm studying programming since 2020, the same year that I throw myself on an Ana
 
 I have been following the path of Web Development ever since. On top of my studies in Front-end and Back-End, I am also very interested in Game Development and DevOps.
 
-I consider myself a creative, analytical and committed person. I like to maintain transparency in my work, delivery the best solutions and learn the things I don't know if it would be useful to solve the problem.
+I consider myself a creative, analytical and committed person. I like to maintain transparency in my work, delivery the best solutions and learn the things I don't know, if it would be useful to solve the problem.
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,html,css,angular,bootstrap,postgres,postman,docker,powershell,linux,git,azure)](https://skillicons.dev)
